@@ -1,5 +1,5 @@
 
-#Felipe Gonzalez – IT Support Portfolio
+## Felipe Gonzalez – IT Support Portfolio
 
 Systems Engineering student focused on IT Support, networking fundamentals, Linux environments, and technical troubleshooting. Certified through Cisco Networking Academy with hands-on experience in system configuration, hardware diagnostics, and network troubleshooting.
 
